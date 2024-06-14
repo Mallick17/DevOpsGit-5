@@ -1,1 +1,22 @@
 Learning GitHub Commands
+
+pwd
+ls
+ls  -->sample.txt
+cat sample.txt
+git init 
+git status 
+git add sample.txt
+git config --list 
+git commit -m"first commit"
+git log
+git remote -v
+git remote add origin https url....................
+git push -u origin master
+git add .
+git commit -m"second commit"
+git log 
+git log --oneline 
+git push origin master 
+git remote -v
+git push origin master 
